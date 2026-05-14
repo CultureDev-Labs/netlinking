@@ -19,7 +19,7 @@ define( 'NL_VERSION',         '1.0.0' );
 define( 'NL_FILE',            __FILE__ );
 define( 'NL_PATH',            plugin_dir_path( __FILE__ ) );
 define( 'NL_URL',             plugin_dir_url( __FILE__ ) );
-define( 'NL_API_BASE',        'https://api.culture-dev.eu/v1/' );
+define( 'NL_API_BASE',        'https://api.culture-dev.eu/plugins/wp/v1/' );
 define( 'NL_FREE_PAGES',      500 );
 define( 'NL_FREE_KW',         50 );
 
